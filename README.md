@@ -31,7 +31,7 @@
 
 ## หัวข้อเนื้อหา
 * <a href="Examples/relay.md">ทดสอบการทำงานรีเลย์</a>
-* <a href="Examples/wifiRelayControl.md">คอนโทรลรีเลย์ผ่าน WiFi จากเว็บบราวเซอร์แบบ AP Mode</a>
+* <a href="Examples/wifiRelayControl.md">ควบคุมรีเลย์ผ่าน WiFi จากเว็บบราวเซอร์แบบ AP Mode</a>
 ## เร็วๆนี้
 * เชื่อมต่อ RS-FS-N01 RS-485 Wind speed sensor
 * เชื่อมต่อ RS-FX-N01RS-485 Wind direction sensor
