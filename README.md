@@ -30,7 +30,7 @@
 * ผู้ที่กำลังเรียนรู้การเขียนโปรแกรมบนโมดูล ESP32 ด้วย Arduino Framework
 
 ## หัวข้อเนื้อหา
-* <a href="https://github.com/imiconsystem/ESP32-AC-Power-ProtoAutomation-Board/Examples/relay.md">ทดสอบการทำงานรีเลย์</a>
+* <a href="Examples/relay.md">ทดสอบการทำงานรีเลย์</a>
 * <a href="https://github.com/imiconsystem/ESP32-AC-Power-ProtoAutomation-Board/Examples/wifiRelayControl.md">คอนโทรลรีเลย์ผ่าน WiFi จากเว็บบราวเซอร์แบบ AP Mode</a>
 ## เร็วๆนี้
 * เชื่อมต่อ RS-FS-N01 RS-485 Wind speed sensor
