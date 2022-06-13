@@ -29,6 +29,9 @@
 
 ## หัวข้อเนื้อหา
 * <a href="https://www.imiconsystem.com/](https://github.com/imiconsystem/ESP32-AC-Power-ProtoAutomation-Board/blob/main/Inputs/relay.md">ทดสอบการทำงานรีเลย์</a>
-* <a href="https://www.imiconsystem.com/">เชื่อมต่อ RS-FX RS-485 Wind speed sensor</a>
-* <a href="https://www.imiconsystem.com/">เชื่อมต่อ RS-FX RS-485 Wind direction sensor</a>
+
+## เร็วๆนี้
+* คอนโทรลรีเลย์ด้วยเว็บบราวเซอร์ผ่าน WiFi แบบ AP Mode
+* เชื่อมต่อ RS-FX RS-485 Wind speed sensor
+* เชื่อมต่อ RS-FX RS-485 Wind direction sensor
 
