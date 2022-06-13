@@ -31,9 +31,8 @@
 
 ## หัวข้อเนื้อหา
 * <a href="https://github.com/imiconsystem/ESP32-AC-Power-ProtoAutomation-Board/blob/28f1b4a1d020cca61ba34cec2283e3c7448943ca/Examples/relay.md">ทดสอบการทำงานรีเลย์</a>
-
+* <a href="https://github.com/imiconsystem/ESP32-AC-Power-ProtoAutomation-Board/blob/68413f366772c67f1065bebdf2266acdeadf7f19/Examples/wifiRelayControl.md">คอนโทรลรีเลย์บน ESP32-AC-Power-ProtoAutomation-Board ผ่าน WiFi จากเว็บบราวเซอร์แบบ AP Mode</a>
 ## เร็วๆนี้
-* คอนโทรลรีเลย์ด้วยเว็บบราวเซอร์ผ่าน WiFi แบบ AP Mode
 * เชื่อมต่อ RS-FS-N01 RS-485 Wind speed sensor
 * เชื่อมต่อ RS-FX-N01RS-485 Wind direction sensor
 
