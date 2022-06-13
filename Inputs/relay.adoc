@@ -1,2 +1,0 @@
-.My Gist
-gist::https://gist.githubusercontent.com/imiconsystem/4746abf2e34db8418fd130536bcb9f39/raw/8a0512d8327e7d5882d0b2d669075caed19a72ce/protoautomation%20-%20test%20relay
