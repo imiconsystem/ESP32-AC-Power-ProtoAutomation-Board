@@ -1,10 +1,10 @@
 # วัตถุประสงค์
 เขียนโปรแกรมเพื่อสั่งงานรีเลย์บนบอร์ด ESP32 AC Power ProtoAutomation
 
-# Requirements
+# ความต้องการพื้นฐาน
 
 - พื้นฐานการเขียนโปรแกรมด้วย Arduino framework
-- Arduino IDE Version 1.8.1+
+- โปรแกรม Arduino IDE Version 1.8.1+
 
 # การเขียนโปรแกรม
 
