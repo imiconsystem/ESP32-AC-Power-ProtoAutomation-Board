@@ -37,3 +37,6 @@
 * เชื่อมต่อ RS-FS-N01 RS-485 Wind speed sensor
 * เชื่อมต่อ RS-FX-N01RS-485 Wind direction sensor
 
+
+***
+©iMiconSystem All rights reserved
