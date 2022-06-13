@@ -7,4 +7,9 @@ image::images/cover.jpg[Board Outline]
 == เนื้อหานี้เหมาะสำหรับ
 * ผู้ที่ได้สั่งซื้อบอร์ดของเราไปแล้ว คุณสามารถใช้เนื้อหานี้เพื่อเป็นแนวทางเริ่มต้นพัฒนาโปรเจค
 * ผู้ที่กำลังเรียนรู้การเขียนโปรแกรมบนโมดูล ESP32 ด้วย Arduino Framework
-*  
+
+[.text-center]
+=== https://github.com/imiconsystem/ESP32-AC-Power-ProtoAutomation-Board/index.adoc[เริ่มต้นเนื้อหา]
+
+[.text-left]
+https://www.imiconsystem.com/product/%e0%b8%9a%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b8%94-nodemcu-ac-power-protoautomation-%e0%b8%9e%e0%b8%a3%e0%b9%89%e0%b8%ad%e0%b8%a1%e0%b8%81%e0%b8%a5%e0%b9%88%e0%b8%ad%e0%b8%87[รายละเอียดเกี่ยวกับบอร์ด] 
