@@ -30,7 +30,7 @@
 * ผู้ที่กำลังเรียนรู้การเขียนโปรแกรมบนโมดูล ESP32 ด้วย Arduino Framework
 
 ## หัวข้อเนื้อหา
-* <a href="https://github.com/imiconsystem/ESP32-AC-Power-ProtoAutomation-Board/blob/main/Inputs/relay.md">ทดสอบการทำงานรีเลย์</a>
+* <a href="https://github.com/imiconsystem/ESP32-AC-Power-ProtoAutomation-Board/blob/28f1b4a1d020cca61ba34cec2283e3c7448943ca/Examples/relay.md">ทดสอบการทำงานรีเลย์</a>
 
 ## เร็วๆนี้
 * คอนโทรลรีเลย์ด้วยเว็บบราวเซอร์ผ่าน WiFi แบบ AP Mode
